@@ -1,4 +1,4 @@
-# BombLab 211
+## BombLab 211
 2022-2 컴퓨터SW시스템개론 Lab1
 
 
